@@ -7,6 +7,6 @@ javac Factorial.java
 #Using<br/>
 java Factorial 5
 <br/><br/>
-#output<br/>
+#Output<br/>
 [ Looping ] 5! = 120<br/>
 [Recursive] 5! = 120
